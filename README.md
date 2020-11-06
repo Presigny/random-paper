@@ -4,6 +4,9 @@ version 1.0.0
 CC BY 4.0
 
 This python script opens a random scientific paper on a given archive (see below for the list of available archives).
+To make it work, you specifiy in the main function 2 parameters:
+- The archive you want to use ("provider")
+- The number of pages you want to open ("webpages")
 
 Ideas to play with it:
 - Boost your research creativity with unexpected references which leads to exciting perspectives
